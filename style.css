@@ -177,6 +177,11 @@ strong:hover {
         width: 90%;
         height: 90%;
        }
+
+       .main__item__content__img:active .overlay{
+        bottom: 0;
+        height: 100%;
+       }
        
       
 }
