@@ -20,6 +20,7 @@ main {
 }
 
 .main__item {
+ max-width: 340px;
  width: 27%;
  padding: 2px;
  height: 70%;
